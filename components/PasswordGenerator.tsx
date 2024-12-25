@@ -253,7 +253,7 @@ const styles = StyleSheet.create({
 
     },
     primaryBtnTxt: {
-        color: '#fff',
+        color: '#ffffff',
         textAlign: 'center',
         fontWeight: '700',
         cursor: "pointer"
@@ -282,12 +282,12 @@ const styles = StyleSheet.create({
             width: 1,
             height: 1,
         },
-        shadowColor: '#333',
+        shadowColor: '#333333',
         shadowOpacity: 0.2,
         shadowRadius: 2,
     },
     generatedPassword: {
         fontSize: 22,
-        color: '#000'
+        color: '#000000'
     },
 });
